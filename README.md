@@ -1,8 +1,8 @@
-## 📌 About
+ **About**
 This project is a simple **Python password generator**.  
 It asks the user how long the password should be, then generates a random secure password.  
 
-### ✨ Features
+** Features**
 - Uses Python’s built-in `string` and `random` libraries.
 - Combines:
   - Uppercase & lowercase letters
