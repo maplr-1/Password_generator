@@ -1,4 +1,4 @@
- **About**
+# **About**
 This project is a simple **Python password generator**.  
 It asks the user how long the password should be, then generates a random secure password.  
 
